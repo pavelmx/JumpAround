@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 664ce52b657933241b0599ce0a5cd1fd
+timeCreated: 1507456080
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Battle Continuez
+  fontNames:
+  - The Battle Continuez
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

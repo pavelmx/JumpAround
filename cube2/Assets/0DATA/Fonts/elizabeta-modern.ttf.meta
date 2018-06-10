@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: efd47ea917860b64b98fbcb940ed0ab9
+timeCreated: 1507456080
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elizabeta Modern
+  fontNames:
+  - Elizabeta Modern
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

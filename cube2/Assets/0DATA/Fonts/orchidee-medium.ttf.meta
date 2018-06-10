@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b652dabc9d26de04db4b9ee10ac1ab4b
+timeCreated: 1507456080
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Orchidee
+  fontNames:
+  - Orchidee
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

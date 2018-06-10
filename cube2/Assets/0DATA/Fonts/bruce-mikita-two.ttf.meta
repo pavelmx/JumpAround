@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2bd762b49298fc843873fe35d7ea9b25
+timeCreated: 1507456080
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bruce Mikita
+  fontNames:
+  - Bruce Mikita
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
